@@ -1,5 +1,5 @@
 # Dork7ee
-<img src="https://b.top4top.io/p_2822fw8gx0.jpg" alt="Awalan"><br>
+<img src="https://k.top4top.io/p_282265fm78.jpg" alt="Awalan"><br>
 Mengambil URL dari daftar 100 Halaman Google menggunakan Query (Google Dork) dan menyimpan url yang di dapat ke dalam file hasil.txt
 
 # Pemasangan & Menjalankan

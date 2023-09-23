@@ -24,6 +24,6 @@ Kolom ini akan ditampilkan jika Anda mengisi <b>y</b> pada saat pemilihan User-A
 <b>Contoh:</b><br><b>1.</b> 
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36<br><b>2.</b> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0<br><b>3.</b> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Safari/14.1.2<br><b>4.</b> Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1<br><b>5. </b>Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
 <br><br>
-Jika sudah mengisi semua Kolom Anda tinggal menunggu hingga pemrosesan Selesai.<br>Maka hasil dari URL yang anda dapatkan akan disimpan kedalam file bernama <b>hasil.txt<br><b>
+Jika sudah mengisi semua Kolom Anda tinggal menunggu hingga pemrosesan Selesai.<br>Maka hasil dari URL yang anda dapatkan akan disimpan kedalam file bernama <b>hasil.txt<br></b><br>
 <img src="https://b.top4top.io/p_28223qu0n0.png" alt="Hasil">
-<br>Contoh hasil yang Didapatkan dengan Query yang di Input, ada 300+ url
+Contoh hasil yang Didapatkan dengan Query yang di Input, berhasil Scrap 100 Halaman dan menghasilkan 300+ url

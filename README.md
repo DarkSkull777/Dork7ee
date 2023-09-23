@@ -8,3 +8,9 @@ git clone https://github.com/Darkskull777/Dork7ee<br>
 cd Dork7ee<br>
 pip install -r requirements.txt<br>
 python run.py
+
+# Pengertian Kolom
+<b>Masukan query pencarian:</b>
+Disini input suatu Pesan yang ingin Anda temukan di suatu URL. Bisa menggunakan Google Dork!<br>
+<b>Contoh:</b> <br>site:dpr.go.id filetype:pdf
+<br>inurl:id= ext:php site:go.id intext:"berita"<br>

@@ -26,4 +26,4 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 <br><br>
 Jika sudah mengisi semua Kolom Anda tinggal menunggu hingga pemrosesan Selesai.<br>Maka hasil dari URL yang anda dapatkan akan disimpan kedalam file bernama <b>hasil.txt<br></b><br>
 <img src="https://b.top4top.io/p_28223qu0n0.png" alt="Hasil"><br>
-Berikut adalah contoh hasil Scrap 100 Halaman dengan Query yang di Input, Mendapatkan 300++ url
+Berikut adalah contoh hasil Scrap dari 100 Halaman dengan Query yang di Input, Mendapatkan 300++ url pdf file dari Situs Resmi Pemerintahan Indonesia<br>Ingat. hasil url apapun yang ditampilan itu tergantung Query yang kalian Input!

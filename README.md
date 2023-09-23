@@ -1,5 +1,5 @@
 # Dork7ee
-Mengambil URL dari daftar 100 Halaman Google menggunakan Query (Google Dork) dan menyimpan url yang di dapat ke dalam file hasil.txt
+Mengambil URL dari daftar 100 Halaman Google menggunakan Query (Google Dork) dan menyimpan url yang di dapat ke dalam file hasil.txt<br><img src="https://k.top4top.io/p_2822k5qkj0.jpg" alt="Awalan">
 
 # Pemasangan & Menjalankan
 pkg install python<br>

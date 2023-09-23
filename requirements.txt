@@ -1,0 +1,4 @@
+requests
+os
+BeautifulSoup
+bs4

@@ -3,3 +3,4 @@ requests
 os
 BeautifulSoup
 bs4
+colorama

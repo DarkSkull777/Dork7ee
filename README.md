@@ -27,3 +27,5 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Jika sudah mengisi semua Kolom Anda tinggal menunggu hingga pemrosesan Selesai.<br>Maka hasil dari URL yang anda dapatkan akan disimpan kedalam file bernama <b>hasil.txt<br></b><br>
 <img src="https://b.top4top.io/p_28223qu0n0.png" alt="Hasil">
 Contoh hasil yang Didapatkan dengan Query yang di Input, berhasil Scrap 100 Halaman dan menghasilkan 300+ url
+<br><br>
+##<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegramhttps://t.me/xskull7)

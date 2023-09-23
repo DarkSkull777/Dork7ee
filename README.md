@@ -6,7 +6,7 @@ Mengambil URL dari daftar 100 Halaman Google menggunakan Query (Google Dork) dan
 pkg install python<br>
 pkg install git<br>
 git clone https://github.com/Darkskull777/Dork7ee<br>
-cd Dork7ee<br>
+cd Dork7ee<br>git pull<br>
 pip install -r requirements.txt<br>
 python run.py
 

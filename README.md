@@ -1,5 +1,5 @@
 # Dork7ee
-<img src="https://h.top4top.io/p_2823607a79.jpg" alt="Awalan"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwkCw4hjxnBTZ74DbQpEfIy-Bae-8CLhdkrN7dAViBWHCYW87fqC36EHPH5qdG0iesuXvsHSk3ldLTIaiUxPo7C9FUtBAt1RZP-Vtn_r4xFU4_cQ5cctiv23PeDlI6XavMlCtVxzN3mBIyksqUDo-i8FKriApBLqy00s77j9HDnRyLpkLTjGnEQOlqKGs/s320/Screenshot_2023-09-24-13-09-23-83_84d3000e3f4017145260f7618db1d683-picsay.jpg" alt="Awalan"><br>
 Mengambil URL dari daftar Halaman Google menggunakan Query (Google Dork) dan menyimpan url yang di dapat ke dalam file hasil.txt
 
 # Pemasangan & Menjalankan

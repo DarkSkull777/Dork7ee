@@ -5,7 +5,7 @@ Mengambil URL dari daftar Halaman Google menggunakan Query (Google Dork) dan men
 # Pemasangan & Menjalankan
 pkg upgrade && pkg upgrade
 pkg install python<br>
-pkg install git<br>
+pkg install git<br>pip install marshal<br>pip install bs4<br>
 git clone https://github.com/Darkskull777/Dork7ee<br>
 cd Dork7ee<br>git pull<br>
 pip install -r requirements.txt<br>
@@ -16,7 +16,7 @@ python run.py
 Disini input suatu Pesan yang ingin Anda temukan di suatu URL. Bisa menggunakan Google Dork!<br>
 <b>Contoh:</b> <br>site:dpr.go.id filetype:pdf
 <br>inurl:id= ext:php site:go.id intext:"berita"<br>
-inurl:/hello-world intext:"Welcome to WordPress. This is your first post."<br><br><b>Pilih mesin pencarian (Google/Bing/Yandex):</b><br>Kolom ini menawarkan kamu untuk memilih Browser Mesin Pencarian yang ingin Anda gunakan. Jika anda ingin menggunakan Mesin Pencarian Google kamu bisa mengisi kolom ini dengan <b>google</b>, dan jika ingin menggunakan mesin pencarian Bing kamu bisa mengisi kolom nya dengan menulis <b>bing</b>, begitu pun dengan Yandex kamu bisa mengetik <b>yandex</b> jika ingin menggunakan mesin pencarian Yandex.<br><br><b>Masukkan jumlah halaman (default 100):</b><br>Disini kamu bisa memasukkan Jumlah halaman yang ingin kamu ambil, Kamu bisa memasukkan angka 1 hingga berapapun. Dan ingat jangan terlalu memasukkan sebuah angka yang berlebihan!<br><br>
+inurl:/hello-world intext:"Welcome to WordPress. This is your first post."<br><br><b>Pilih mesin pencarian (Google/Bing/Yandex/DuckDuckGo/Ecosia):</b><br>Kolom ini menawarkan kamu untuk memilih Browser Mesin Pencarian yang ingin Anda gunakan. Jika anda ingin menggunakan Mesin Pencarian Google kamu bisa mengisi kolom ini dengan <b>google</b>, dan jika ingin menggunakan mesin pencarian Bing kamu bisa mengisi kolom nya dengan menulis <b>bing</b>, begitu pun dengan Yandex kamu bisa mengetik <b>yandex</b> jika ingin menggunakan mesin pencarian Yandex, Dan masukkan lah <b>duckduckgo</b>atau <b>ecosia<b> untuk menggunakan mesin pencarian Non Indexed<br><br><b>Masukkan jumlah halaman (default 100):</b><br>Disini kamu bisa memasukkan Jumlah halaman yang ingin kamu ambil, Kamu bisa memasukkan angka 1 hingga berapapun. Dan ingat jangan terlalu memasukkan sebuah angka yang berlebihan!<br><br>
 <b>Apakah Anda ingin menggunakan User-Agent opsional? (y/n):</b><br>
 Disini Anda ingin menggunakan User Agent Pribadi milik Anda sendiri, atau menggunakan User Agent bawaan program. Jika ingin menggunakan User Agent milik Anda Isi dengan <b>y</b>, Dan jika ingin memakai User Agent bawaan Program Anda bisa meng Isi dengan <b>n</b>.
 <br><br>
@@ -29,3 +29,6 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Jika sudah mengisi semua Kolom Anda tinggal menunggu hingga pemrosesan Selesai.<br>Maka hasil dari URL yang anda dapatkan akan disimpan kedalam file bernama <b>hasil.txt<br></b><br>
 <img src="https://b.top4top.io/p_28223qu0n0.png" alt="Hasil"><br>
 Berikut adalah contoh hasil Scrap dari 100 Halaman dengan Query yang di Input, Mendapatkan 300++ url pdf file dari Situs Resmi Pemerintahan Indonesia<br><br><b>Ingat. hasil url apapun yang ditampilan itu tergantung Query yang kalian Input!
+# User Agent Program
+Jika kamu ingin mengganti User Agent yang lain saya sudah memberikan 100 List user agent untuk anda<br>
+<br>masukkan perintah <b>python ua.py</b> di terminal anda. lalu masukkan sebuah angka 1 hingga 100, angka apapun yang di input akan menghasilkan user agent.

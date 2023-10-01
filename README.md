@@ -3,7 +3,7 @@
 Mengambil URL dari daftar Halaman Google menggunakan Query (Google Dork) dan menyimpan url yang di dapat ke dalam file hasil.txt
 
 # Pemasangan & Menjalankan
-pkg upgrade && pkg upgrade
+pkg upgrade && pkg upgrade<br>
 pkg install python<br>
 pkg install git<br>pip install marshal<br>pip install bs4<br>
 git clone https://github.com/Darkskull777/Dork7ee<br>
